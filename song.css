@@ -1,0 +1,9 @@
+thead tr{
+  padding: 10px;
+  background-color: lightgray;
+}
+
+table img{
+  width: 200px;
+  height: 200px;
+}
